@@ -1,2 +1,2 @@
-## Cloud Native Azure Learnings
+## Devlopment Azure Learnings
 ## Solutions for Azure
